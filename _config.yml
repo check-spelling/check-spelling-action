@@ -1,1 +1,6 @@
+# Jekyll configuration
+name: check-spelling action
+description: check-spelling GitHub action
 theme: jekyll-theme-slate
+url: "https://www.check-spelling.dev"
+markdown: GFM

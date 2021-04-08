@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# <img src="assets/logo.png" alt="check-spelling logo" width="32" height="32"> check-spelling action <!-- markdownlint-disable MD033 -->
 
-You can use the [editor on GitHub](https://github.com/check-spelling/check-spelling-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Everyone makes typos. This includes people writing documentation and comments,
+but it also includes programmers naming variables, functions, apis, classes,
+and filenames.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Programmer friendly
 
-### Markdown
+Often, programmers will use `InitialCapitalization`, `camelCase`,
+`ALL_CAPS`, or `IDLCase` when naming their things. When they do this, it makes
+it much harder for naive spelling tools to recognize misspellings, and as such,
+with a really high false-positive rate, people don't tend to enable spell-checking
+at all.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Unlike those traditional spell checkers, this one is able to handle all of those
+kinds of tokens.
 
-```markdown
-Syntax highlighted code block
+## Information
 
-# Header 1
-## Header 2
-### Header 3
+* [Quick Start](https://github.com/check-spelling/spell-check-this/)
+* [Documentation](https://github.com/check-spelling/check-spelling/wiki)
+* [Marketplace listing](https://github.com/marketplace/actions/check-spelling)
+* [Releases](https://github.com/check-spelling/check-spelling/releases)
 
-- Bulleted
-- List
+## Future work
 
-1. Numbered
-2. List
+* [Possible features](https://github.com/check-spelling/check-spelling/wiki/Possible-features)
+* [Issues](https://github.com/check-spelling/check-spelling/issues)
 
-**Bold** and _Italic_ and `Code` text
+## The code
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/check-spelling/check-spelling-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Source code](https://github.com/check-spelling/check-spelling/)
