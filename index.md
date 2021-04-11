@@ -23,16 +23,16 @@ kinds of tokens.
 
 ## Information
 
-* [Quick Start](https://github.com/check-spelling/spell-check-this/)
-* [Documentation](https://github.com/check-spelling/check-spelling/wiki)
-* [Marketplace listing](https://github.com/marketplace/actions/check-spelling)
-* [Releases](https://github.com/check-spelling/check-spelling/releases)
+* [🏃 Quick Start](https://github.com/check-spelling/spell-check-this/)
+* [📄 Documentation](https://github.com/check-spelling/check-spelling/wiki)
+* [🏬 Marketplace listing](https://github.com/marketplace/actions/check-spelling)
+* [📅 Releases](https://github.com/check-spelling/check-spelling/releases)
 
 ## Future work
 
-* [Possible features](https://github.com/check-spelling/check-spelling/wiki/Possible-features)
-* [Issues](https://github.com/check-spelling/check-spelling/issues)
+* [🗺️ Possible features](https://github.com/check-spelling/check-spelling/wiki/Possible-features)
+* [🐛 Issues](https://github.com/check-spelling/check-spelling/issues)
 
 ## The code
 
-* [Source code](https://github.com/check-spelling/check-spelling/)
+* [✏️ Source code](https://github.com/check-spelling/check-spelling/)
