@@ -15,6 +15,12 @@ at all.
 Unlike those traditional spell checkers, this one is able to handle all of those
 kinds of tokens.
 
+## What you get
+
+![check-spelling-bot Report](assets/comment.png)
+
+![check-spelling-bot log](assets/log.png)
+
 ## Information
 
 * [Quick Start](https://github.com/check-spelling/spell-check-this/)
