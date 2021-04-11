@@ -36,3 +36,7 @@ kinds of tokens.
 ## The code
 
 * [✏️ Source code](https://github.com/check-spelling/check-spelling/)
+
+## Connect
+
+[<img src="assets/twitter.svg" alt="Twitter logo" width="16" height="16"> @_check_spelling](https://twitter.com/_check_spelling)
