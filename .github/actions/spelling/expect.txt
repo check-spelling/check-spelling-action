@@ -1,0 +1,17 @@
+css
+GFM
+github
+http
+img
+markdownlint
+png
+soref
+src
+svg
+url
+utf
+wiki
+www
+xlink
+xml
+xmlns
