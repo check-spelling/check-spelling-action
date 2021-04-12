@@ -21,6 +21,10 @@ kinds of tokens.
 
 ![check-spelling-bot log](assets/log.png)
 
+### Prerelease
+
+![talk to check-spelling-bot](https://raw.githubusercontent.com/check-spelling-bot/videos/quote-code/quotecode.gif)
+
 ## Information
 
 * [🏃 Quick Start](https://github.com/check-spelling/spell-check-this/)
