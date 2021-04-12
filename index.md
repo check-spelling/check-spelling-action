@@ -27,6 +27,7 @@ kinds of tokens.
 * [📄 Documentation](https://github.com/check-spelling/check-spelling/wiki)
 * [🏬 Marketplace listing](https://github.com/marketplace/actions/check-spelling)
 * [📅 Releases](https://github.com/check-spelling/check-spelling/releases)
+* [🖼 Presentation](https://docs.google.com/presentation/d/13U8a9ibqp7B1UrE8HWk7PsnZLImIwgp06vopLdmcX-s/present)
 
 ## Future work
 
