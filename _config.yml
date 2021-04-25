@@ -4,3 +4,4 @@ description: check-spelling GitHub action
 theme: jekyll-theme-slate
 url: "https://www.check-spelling.dev"
 markdown: GFM
+twitter_username: _check_spelling
