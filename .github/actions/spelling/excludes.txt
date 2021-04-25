@@ -10,4 +10,5 @@ ignore$
 \.mod$
 \.png$
 \.svg$
+^browserconfig\.xml$
 ^\.github/
