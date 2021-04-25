@@ -4,8 +4,10 @@
 (?:^|/)package(?:-lock)\.json$
 (?:^|/)vendor/
 ignore$
+\.ico$
 \.lock$
 \.min\.
 \.mod$
 \.png$
+\.svg$
 ^\.github/
