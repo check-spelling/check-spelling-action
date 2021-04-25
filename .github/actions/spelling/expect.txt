@@ -18,6 +18,7 @@ png
 seo
 soref
 src
+standalone
 stylesheet
 svg
 tagline
