@@ -2,6 +2,7 @@ charset
 css
 DOCTYPE
 endif
+favicon
 forkme
 GFM
 github
@@ -9,6 +10,7 @@ google
 href
 html
 http
+ico
 img
 markdownlint
 pageview

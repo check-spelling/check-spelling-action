@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
+{% if site.favicon %}
+    <link rel="icon" type="image/png" href="{{ site.favicon }}">
+{% endif %}
   </head>
 
   <body>

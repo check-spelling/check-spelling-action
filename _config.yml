@@ -5,3 +5,4 @@ theme: jekyll-theme-slate
 url: "https://www.check-spelling.dev"
 markdown: GFM
 twitter_username: _check_spelling
+favicon: favicon.ico
