@@ -21,9 +21,14 @@ kinds of tokens.
 
 ![check-spelling-bot log](assets/log.png)
 
-### Prerelease
+### Experimental
 
 ![talk to check-spelling-bot](https://raw.githubusercontent.com/check-spelling-bot/videos/quote-code/quotecode.gif)
+
+_This feature should work well for small teams where everyone is a member of the org._
+_It is not ready for repositories with lots of bots or where multiple non-members interact in PRs._
+
+If you'd like to test this feature, but fall into these categories, you can try the `prerelease` branch.
 
 ## Information
 
