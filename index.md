@@ -33,6 +33,7 @@ If you'd like to test this feature, but fall into these categories, you can try 
 ## Information
 
 * [🏃 Quick Start](https://github.com/check-spelling/spell-check-this/)
+  * Just drop the contents of this repository into your project
 * [📄 Documentation](https://github.com/check-spelling/check-spelling/wiki)
   * [⚠️ Warning descriptions](https://github.com/check-spelling/check-spelling/wiki/Warning-descriptions)
 * [🏬 Marketplace listing](https://github.com/marketplace/actions/check-spelling)
