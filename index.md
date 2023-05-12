@@ -34,15 +34,15 @@ If you'd like to test this feature, but fall into these categories, you can try 
 
 * [🏃 Quick Start](https://github.com/check-spelling/spell-check-this/)
   * Just drop the contents of this repository into your project
-* [📄 Documentation](https://github.com/check-spelling/check-spelling/wiki)
-  * [⚠️ Warning descriptions](https://github.com/check-spelling/check-spelling/wiki/Warning-descriptions)
+* [📄 Documentation](https://docs.check-spelling.dev)
+  * [⚠️ Event descriptions](https://docs.check-spelling.dev/Event-descriptions)
 * [🏬 Marketplace listing](https://github.com/marketplace/actions/check-spelling)
 * [📅 Releases](https://github.com/check-spelling/check-spelling/releases)
 * [🖼 Presentation](https://docs.google.com/presentation/d/13U8a9ibqp7B1UrE8HWk7PsnZLImIwgp06vopLdmcX-s/present)
 
 ## Future work
 
-* [🗺️ Possible features](https://github.com/check-spelling/check-spelling/wiki/Possible-features)
+* [🗺️ Possible features](https://docs.check-spelling.dev/Possible-features)
 * [🐛 Issues](https://github.com/check-spelling/check-spelling/issues)
 
 ## The code

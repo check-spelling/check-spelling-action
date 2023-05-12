@@ -25,5 +25,4 @@ tagline
 url
 username
 utf
-wiki
 www
