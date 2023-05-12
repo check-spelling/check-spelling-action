@@ -1,9 +1,11 @@
 charset
+checkspelling
 css
 DOCTYPE
 endif
 favicon
 forkme
+fosstodon
 GFM
 github
 google

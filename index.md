@@ -51,4 +51,5 @@ If you'd like to test this feature, but fall into these categories, you can try 
 
 ## Connect
 
+[<img src="assets/mastodon.svg" alt="Mastodon logo" width="16" height="16"> @checkspelling](https://fosstodon.org/@checkspelling)
 [<img src="assets/twitter.svg" alt="Twitter logo" width="16" height="16"> @_check_spelling](https://twitter.com/_check_spelling)
